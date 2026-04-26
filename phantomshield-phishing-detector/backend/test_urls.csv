@@ -1,0 +1,11 @@
+url,label
+https://www.google.com,safe
+https://www.microsoft.com,safe
+https://www.github.com,safe
+https://www.openai.com,safe
+https://www.amazon.com,safe
+http://192.168.0.1/login,phishing
+http://paypal.verify-account-secure-login.com,phishing
+http://secure-account-update-login.net,phishing
+http://free-gift-card-bonus.xyz,phishing
+http://bank-secure-verification-login.com,phishing
